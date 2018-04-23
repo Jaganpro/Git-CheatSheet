@@ -1,5 +1,4 @@
-# Git-CheatSheet
-Top 25 commands to know in git
+# TO DO
 
   * https://www.cs.cmu.edu/~15131/f16/topics/git/getting-started/
   * http://www.cheat-sheets.org/saved-copy/davechild_linux-command-line.pdf
